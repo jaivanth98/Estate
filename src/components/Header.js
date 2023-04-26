@@ -9,7 +9,7 @@ const Header = () => {
         <img src={Logo}/>
       </Link>
       <div className='flex items-centert gap-6'>
-        <Link className='hover:text-violet-900 transition'>Log In</Link>
+        <Link className='hover:text-violet-900 transition mt-3 '>Log In</Link>
         <Link className='bg-violet-700 hover:bg-violet-800 text-white px-4 py-3 rounded-lg transition'>Sign up</Link>
       </div>
     </div>
